@@ -1,7 +1,7 @@
 # Shortly website
 
 I learned this project from Brad Traversy's Tailwind CSS Udemy course.
-Live demo:
+Live demo: https://learn-tailwindcss-shortly.netlify.app/
 
 ## Usage
 
